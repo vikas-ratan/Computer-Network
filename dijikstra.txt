@@ -1,0 +1,33 @@
+Enter the no. of vertices : 8
+Enter the no. of edges : 14
+Enter the key value of nodes :
+A B C D E F G H
+Enter the vertices pairs having edges and weights :
+F G 6
+F E 1
+F D 3
+G H 14
+G D 1
+E D 1
+E C 3
+D C 1
+D B 9
+G B 4
+H B 2
+B A 1
+C A 4
+C B 2
+Enter the source Node : F
+Enter the destination Node : A
+
+Distance from Source =  6
+Path for Source to Destination :
+B - A   1
+C - B   2
+D - C   1
+E - D   1
+F - E   1
+
+--------------------------------
+Process exited after 20.04 seconds with return value 0
+Press any key to continue . . .
